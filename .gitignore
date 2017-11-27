@@ -1,0 +1,8 @@
+runtime/
+*~
+/*.buildpath
+/*.project
+/.settings
+/.idea
+/.*
+!.htaccess
