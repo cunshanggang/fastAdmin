@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:73:"D:\www\htdocs\fastadmin\public/../application/admin\view\index\login.html";i:1502337746;s:73:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\meta.html";i:1502337746;s:75:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\script.html";i:1502337746;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:73:"D:\www\htdocs\fastAdmin\public/../application/admin\view\index\login.html";i:1502337746;s:73:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\meta.html";i:1511321003;s:75:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\script.html";i:1502337746;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>

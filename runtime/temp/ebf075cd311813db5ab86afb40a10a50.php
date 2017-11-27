@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:6:{s:73:"D:\www\htdocs\fastadmin\public/../application/admin\view\index\index.html";i:1502337746;s:73:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\meta.html";i:1502337746;s:75:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\header.html";i:1502337746;s:73:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\menu.html";i:1502337746;s:76:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\control.html";i:1502337746;s:75:"D:\www\htdocs\fastadmin\public/../application/admin\view\common\script.html";i:1502337746;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:6:{s:73:"D:\www\htdocs\fastAdmin\public/../application/admin\view\index\index.html";i:1511255375;s:73:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\meta.html";i:1511321003;s:75:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\header.html";i:1511246180;s:73:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\menu.html";i:1511504918;s:76:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\control.html";i:1502337746;s:75:"D:\www\htdocs\fastAdmin\public/../application/admin\view\common\script.html";i:1502337746;}*/ ?>
 <!DOCTYPE html>
 <html lang="<?php echo $config['language']; ?>">
     <head>
@@ -184,6 +184,21 @@
         <li><a href="http://doc.fastadmin.net"><i class="fa fa-list text-red"></i> <span>官方文档</span></a></li>
         <li><a href="http://forum.fastadmin.net"><i class="fa fa-comment text-yellow"></i> <span>社区交流</span></a></li>
         <li><a href="https://jq.qq.com/?_wv=1027&k=487PNBb"><i class="fa fa-qq text-aqua"></i> <span>QQ交流群</span></a></li>
+    <!--&lt;!&ndash; 文章管理start &ndash;&gt;-->
+        <!--<li class="treeview"><a href="javascript:;" addtabs="5" url="javascript:;" py="" pinyin=""><i-->
+                <!--class="fa fa-group"></i> <span>文章管理</span> <span class="pull-right-container"><i-->
+                <!--class="fa fa-angle-left"></i> </span></a>-->
+            <!--<ul class="treeview-menu menu-open" style="display: block;">-->
+                <!--<li class=""><a href="<?php echo url('article/index'); ?>" addtabs=""-->
+                                <!--url="<?php echo url('article/index'); ?>" py="" pinyin=""><i-->
+                        <!--class="fa fa-user"></i> <span>文章列表</span> <span class="pull-right-container"> </span></a></li>-->
+                <!--<li class=""><a href="/fastadmin/public/index.php/admin/auth/group" addtabs="11"-->
+                                <!--url="/fastadmin/public/index.php/admin/auth/group" py="jsz" pinyin="jiaosezu"><i-->
+                        <!--class="fa fa-group"></i> <span>添加文章</span> <span class="pull-right-container"> </span></a></li>-->
+            <!--</ul>-->
+        <!--</li>-->
+    <!--&lt;!&ndash; 文章管理end &ndash;&gt;-->
+
     </ul>
 </section>
 <!-- /.sidebar -->
